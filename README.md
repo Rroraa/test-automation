@@ -1,0 +1,1 @@
+[![Playwright Tests](https://github.com/macybalgos/qa-automation-playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/Rroraa/test-automation/actions)    
